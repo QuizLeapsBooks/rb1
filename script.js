@@ -3,7 +3,7 @@ function displayMessage() {
 }
 
 function initiateCall() {
-    window.location.href = "tel:+911234567890"; // Replace with the mobile number you want to call
+    window.location.href = "tel:+918874749988"; // Replace with the mobile number you want to call
 }
 
 function drag(event) {
